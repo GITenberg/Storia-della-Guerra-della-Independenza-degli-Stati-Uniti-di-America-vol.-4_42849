@@ -1,0 +1,30 @@
+_repo: Storia-della-Guerra-della-Independenza-degli-Stati-Uniti-di-America-vol.-4_42849
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42849-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Botta, Carlo
+    aliases:
+    - Botta, Carlo Giuseppe Guglielmo
+    - Botta, Charles
+    birthdate: 1766
+    deathdate: 1837
+    gutenberg_agent_id: '41885'
+    url: http://www.gutenberg.org/2009/agents/41885
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42849'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783'
+- !lcc 'E201'
+title: Storia della Guerra della Independenza degli Stati Uniti di America, vol. 4
+url: http://www.gutenberg.org/ebooks/42849
